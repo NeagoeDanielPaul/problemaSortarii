@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin-top:0;
+    text-align: center;
+    height: 50px;
+    background:lightgray;
+    overflow: hidden;
+}
+aside{
+    background: lightgray;
+    width: 250px;
+    height: 100vw;
+}
+aside p{
+    font-weight: 900;
+    font-size: 20px;
+    border-collapse: collapse;
+    height: 40px;
+    line-height: 40px;
+}
+aside p:hover{
+    background: lightslategray;
+}
